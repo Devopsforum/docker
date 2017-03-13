@@ -1,6 +1,6 @@
-# Official Jenkins Docker image
+# Jenkins Docker image with AWS and EB CLI Utility
 
-The Jenkins Continuous Integration and Delivery server.
+The Jenkins Continuous Integration and Delivery server with AWS CLI and Elastic Beanstalk CLI Utility.
 
 This is a fully functional Jenkins server, based on the Long Term Support release.
 [http://jenkins.io/](http://jenkins.io/).
